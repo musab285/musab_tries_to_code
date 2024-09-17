@@ -1,9 +1,9 @@
 # musab_tries_to_code
-My first repository  
+A repository to record my progress!
 
 # My name is Musab
 ## Some info about me:
-* I am doing BSCS from FAST-NUCES
+* I am doing BSCS from FAST-NUCES Karachi
 * I have done ALevel from Cedar college
 
 # Purpose of this Repository:
